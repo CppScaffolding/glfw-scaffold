@@ -1,0 +1,4 @@
+## .gitignore file for glfw-scaffold
+
+## ignore folder fetched through gclient
+glfw
